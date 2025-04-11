@@ -1,11 +1,11 @@
 
-### Hi, I'm Henrique Batista 👋
-Olá, me chamo Henrique Batista, sou desenvolvedor Full Stack formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde pude desenvolver individualmente e em grupo, projetos com as principais tecnologias de desenvolvimento Web, como, HTML, CSS, Javascript, ReactJs (React Hooks, React Context, React Router, Styled-Components), API REST, NodeJs, Typescript, Programação orientada a objetos, Testes unitários (Jest), AWS. Tenho formação técnica em Multimidia pela Oi Kabum - Escola de Arte e Tecnologia concluida no ano de 2013, onde tive o meu primeiro contato com a programação, onde cursei HTML e CSS num estudo de Web Design, onde me tornei um apaixonado pela programação e entusiasta na aréa.
+### Olá, me chamo Henrique Batista 👋
+Desenvolvedor Full Stack, graduando em Engenharia de Software, com experiências profissionais em VueJs, ReactJs, Typescript, SequelizeORM e MySQL, atuando no desenvolvimento de aplicações web escaláveis e de alta performance.
+Formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenvolveu, individualmente e em equipe, projetos utilizando as principais tecnologias do desenvolvimento web, como HTML, CSS, Javascript, ReactJs (React Hooks, React Context), API REST, NodeJs, testes unitários (Jest), AWS, MySQL e TailwindCSS.
 
-Trabalhei durante 8 anos no mercado comercial, trabalhando com vendas de Smartphones e serviços de telecomunicação, onde pude desenvolver minhas habilidades de comunicação, gerenciamento de tempo, foco em resoluções de problemas e agora busco em uma transição de carreira, agregar todas essas habilidades com oque venho aprendendo e desenvolvendo em meus estudos como desenvolvedor.
 
-- 📚 **Desenvolvedor Web Full Stack** formado pelo bootcamp Labenu
-- 🌱 Atualmente estou aprendendo **Angular, React Native e AWS**
+- 📚 **Desenvolvedor Web Full Stack**
+- 🌱 Atualmente estou aprendendo **Java e AWS DevOps e CI/CD**
 
 ### GitHub Overview
 <div align="center">
