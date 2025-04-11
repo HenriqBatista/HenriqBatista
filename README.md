@@ -5,7 +5,7 @@ Formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenv
 
 
 - 📚 **Desenvolvedor Web Full Stack**
-- 🌱 Atualmente estou aprendendo **Java e AWS DevOps e CI/CD**
+- 🌱 Atualmente estou aprendendo **Java, AWS DevOps e CI/CD**
 
 ### GitHub Overview
 <div align="center">
