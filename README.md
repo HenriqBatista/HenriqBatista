@@ -11,11 +11,11 @@ Formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenv
 <div align="center">
   
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=HenriqBatista&show_icons=true&theme=prussian#gh-prussian-mode-only" width="52%"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=HenriqBatista&show_icons=true&theme=prussian" width="52%"  />
   </picture>
   
 <picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqBatista&layout=donut&show_icons=true&theme=prussian#gh-prussian-mode-only" width="36%" alt="My Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqBatista&layout=donut&show_icons=true&theme=prussian" width="36%" alt="My Top Langs"/>
 </picture>
   
   </div>
