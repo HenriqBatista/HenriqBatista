@@ -1,7 +1,7 @@
 
 ### PT-BR 
 ## Olá, me chamo Henrique Batista 👋
-Desenvolvedor Full Stack, graduando em Engenharia de Software, com experiências profissionais em VueJs, ReactJs, Typescript, SequelizeORM e MySQL, atuando no desenvolvimento de aplicações web escaláveis e de alta performance.
+Desenvolvedor Full Stack, graduando em Engenharia de Software, com experiências profissionais em VueJs, ReactJs, Typescript, SequelizeORM, MySQL e AWS, atuando no desenvolvimento de aplicações web escaláveis e de alta performance.
 Formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenvolveu, individualmente e em equipe, projetos utilizando as principais tecnologias do desenvolvimento web, como HTML, CSS, Javascript, ReactJs (React Hooks, React Context), API REST, NodeJs, testes unitários (Jest), AWS, MySQL e TailwindCSS.
 
 
@@ -10,7 +10,7 @@ Formado pelo bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenv
 
 ### EN-US
 ## Hi, my name is Henrique Batista 👋
-I am a Full Stack Developer and a Software Engineering undergraduate, with professional experience in Vue.js, React.js, TypeScript, Sequelize ORM, and MySQL, working on the development of scalable, high-performance web applications.
+I am a Full Stack Developer and a Software Engineering undergraduate, with professional experience in Vue.js, React.js, TypeScript, Sequelize ORM, MySQL and AWS, working on the development of scalable, high-performance web applications.
 I graduated from Labenu’s Full Stack Web Development bootcamp, where I worked both individually and in teams on projects using core web development technologies such as HTML, CSS, JavaScript, React.js (React Hooks, React Context), REST APIs, Node.js, unit testing (Jest), AWS, MySQL, and Tailwind CS
 
 
